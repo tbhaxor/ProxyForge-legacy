@@ -2,6 +2,9 @@
 
 Proxy Forge is a free and open-source tool that helps you to set up OSI level 4 proxies with rotating IPs on the Digital Ocean platform. It is a powerful and innovative solution that addresses one of the most pressing challenges faced by developers and businesses in today's digital landscape: IP throttling and blacklisting. Proxy Forge empowers you to conquer these obstacles by providing a seamless, reliable, and easy-to-deploy solution.
 
+> [!NOTE]
+> Further development on this repository is being discontinued and the focus is shifted to [newer versions](https://gitlab.com/tbhaxor/proxyforge/). I have also renamed it from `ProxyForge-legacy` to avoid any confusions. 
+
 In simpler terms, Proxy Forge helps you to create a pool of rotating IP addresses that you can use to access the internet. This can be useful for a variety of purposes, such as avoiding IP bans, scraping websites, and testing web applications.
 
 Proxy Forge is a powerful tool that can be used by both developers and businesses. It is easy to use and deploy, and it provides a number of features that make it a valuable tool for anyone who needs to access the internet anonymously or avoid IP bans.
